@@ -1,3 +1,9 @@
+# Intro 
+
+This application is a fully responsive landing page website for a restaurant. This project was built using ReactJS & CSS. 
+
+Here is the deployed version: https://restaurant-app-inky-nine.vercel.app/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
